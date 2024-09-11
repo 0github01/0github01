@@ -1,5 +1,6 @@
 # 特发性嗜睡症（也包含至今科研临床领域尚未发现病理的特发性睡眠增多、发作性睡病2型、严重慢性疲劳、严重非典型抑郁症、严重嗜睡型抑郁症等明显睡眠过度症；大标题长度受限故而缩短）的一个重要分型十分有可能是下丘脑等部位控制觉醒神经核团超小血管病变（比如小血管堵住等）导致小范围二氧化碳超标的病理数学模型及其分析
 
+
 ## 摘要英文版本链接如下（The English version of the abstract is linked below）：
 多年特发嗜睡症：An important subtype of idiopathic hypersomnia is likely to be hyperlocalized carbon dioxide excess
 https://zhuanlan.zhihu.com/p/690767363
