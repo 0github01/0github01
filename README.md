@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @0github01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 特发性嗜睡症（也包含至今科研临床领域尚未发现病理的特发性睡眠增多、发作性睡病2型、严重慢性疲劳、严重非典型抑郁症、严重嗜睡型抑郁症等明显睡眠过度症；大标题长度受限故而缩短）的一个重要分型十分有可能是下丘脑等部位控制觉醒神经核团超小血管病变（比如小血管堵住等）导致小范围二氧化碳超标的病理数学模型及其分析
 
-<!---
-0github01/0github01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 摘要英文版本链接如下（The English version of the abstract is linked below）：
+
+多年特发嗜睡症：An important subtype of idiopathic hypersomnia is likely to be hyperlocalized carbon dioxide excess
+
+## 摘要日本语版本链接如下（日本語版の要約は以下の通りです）：
+
+特発性嗜眠症重要なサブタイプは、「覚醒の核を制御する超小血管病変」である可能性が - 哔哩哔哩
+
+
+## 本文中文摘要
+
+中枢特发性嗜睡症于1976年在全球范围内首次被描述[1]，是一种持续嗜睡的罕见病症（明显不同于发作性睡病1型，发作性睡病1型该罕见病科研上的病理是明确的，下丘脑食欲素分泌不足导致）。由于其至今科研上病理不明，患者群体很难得到精准诊断及其精准治疗，当前而言相应的病理假说探讨及其病理科研突破可谓十分重要也十分急迫。
+
+
+按照“中国睡眠研究会”发布的《日间过度思睡临床诊断和治疗专家共识》一文，“中枢特发嗜睡”在中国影响人数估算为5万（共识中提及患病率为0.02‰~0.05‰，折算成人口数的估算值）[2]。此外 “非典型抑郁症”（一些场合也称为“嗜睡型抑郁症”）是抑郁症的一种重要分型且占据很大的比例，考虑到这部分人群与“中枢特发嗜睡”人群很可能存在重叠，再考虑到科研上病理不明的发作性睡病2型、严重慢性疲劳综合症的病患人群与“中枢特发嗜睡”人群同样很可能存在重叠，故而“中枢特发嗜睡”在中国影响人数很可能还不止估算的5万。
