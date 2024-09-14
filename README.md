@@ -2,12 +2,22 @@
 # 特发性嗜睡症（也包含至今科研临床领域尚未发现病理的特发性睡眠增多、发作性睡病2型、严重慢性疲劳、严重非典型抑郁症、严重嗜睡型抑郁症等明显睡眠过度症；大标题长度受限故而缩短）的一个重要分型十分有可能是下丘脑等部位控制觉醒神经核团超小血管病变（比如小血管堵住等）导致小范围二氧化碳超标的病理数学模型及其分析
 
 
+**中文github版本记录版本，与本篇内容基本一致，可无需注册账号直接访问全文，如第一次打不开github可尝试多刷新几次**；The Chinese version with github version records is basically the same as the content of this article. You can directly access the full text without registering an account：https://github.com/0github01/0github01/blob/main/README.md
+
 ## 摘要英文版本链接如下（The English version of the abstract is linked below）：
+
 多年特发嗜睡症：An important subtype of idiopathic hypersomnia is likely to be hyperlocalized carbon dioxide excess
 https://zhuanlan.zhihu.com/p/690767363
+
+English version of the summary with github version record (basically the same as the previous content, you can directly access the full text of the summary without registering an account)：https://github.com/0github01/0github01/blob/main/%E6%91%98%E8%A6%81%E8%8B%B1%E6%96%87%E7%BF%BB%E8%AF%91.md
+
 ## 摘要日本语版本链接如下（日本語版の要約は以下の通りです）：
-特発性嗜眠症重要なサブタイプは、「覚醒の核を制御する超小血管病変」である可能性が - 哔哩哔哩
+
+特発性嗜眠症重要なサブタイプは、「覚醒の核を制御する超小血管病変」である可能性が 
 https://www.bilibili.com/opus/952927065468829698
+
+github版に記録されているダイジェストの日本語版があります(前者のテキストとほぼ一致しており、アカウント登録なしでダイジェスト全文にアクセスできます)：https://github.com/0github01/0github01/blob/main/%E6%91%98%E8%A6%81%E6%97%A5%E6%9C%AC%E8%AF%AD%E7%BF%BB%E8%AF%91.md
+
 
 ## 本文中文摘要
 中枢特发性嗜睡症于1976年在全球范围内首次被描述[1]，是一种持续嗜睡的罕见病症（明显不同于发作性睡病1型，发作性睡病1型该罕见病科研上的病理是明确的，下丘脑食欲素分泌不足导致）。由于其至今科研上病理不明，患者群体很难得到精准诊断及其精准治疗，当前而言相应的病理假说探讨及其病理科研突破可谓十分重要也十分急迫。
